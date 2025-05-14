@@ -23,7 +23,7 @@ I'm a backend-focused software developer with 3+ years of experience in enterpri
 ### 📈 GitHub Stats
 
 ![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iampedrovieira&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iampedrovieira&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iampedrovieira&layout=compact&langs_count=6&hide=Kotlin,PHP,SCSS,EJS,C,Vue&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
