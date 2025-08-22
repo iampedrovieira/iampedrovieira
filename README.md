@@ -12,7 +12,7 @@ I'm a backend-focused software developer with 3+ years of experience in enterpri
 ---
 
 ### 🛠️ Notable Projects
-
+- ✨ [**GlowCaster**](https://github.com/iampedrovieira/GlowCaster): Specialized forecasting app that predicts the quality of sunrises and sunsets. (AI + Node.js + Python + React)
 - 🎯 [**MeetingRoom**](https://github.com/iampedrovieira/meetingroom): AI-assisted room booking system (Node.js + Python + PostgreSQL)
 - 🎮 [**Multiplayer Tic-Tac-Toe**](https://tictactoe.iampedrovieira.pt): Real-time game using WebSockets and Docker
 - 🔐 [**Authentication App**](https://github.com/iampedrovieira/auth-app): GitHub OAuth integration, reusable login module, full CI/CD
