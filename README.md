@@ -1,10 +1,10 @@
 # Hi, I'm Pedro Vieira 👋
 
-I'm a backend-focused software developer with 3+ years of experience in enterprise systems — recently relocated to Denmark and now looking to join a modern backend or full-stack team.
+I'm a backend-focused software developer with 4+ years of experience — from enterprise PL/SQL systems at Accenture to modern backend. I enjoy building end-to-end systems: pipelines, APIs, and the tooling around them.
 
 🔧 **Tech I'm confident with:**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,postgres,react,nextjs,python,docker,git,githubactions,jest" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,postgres,react,nextjs,python,go,docker,githubactions,jest" />
 </p>
 
 🌍 **Based in:** Copenhagen, Denmark
@@ -12,11 +12,13 @@ I'm a backend-focused software developer with 3+ years of experience in enterpri
 ---
 
 ### 🛠️ Notable Projects
-- ✨ [**GlowCaster**](https://github.com/iampedrovieira/GlowCaster): Specialized forecasting app that predicts the quality of sunrises and sunsets. (AI + Node.js + Python + React)
+
+- 📸 [**Reddit Content Pipeline**](https://github.com/iampedrovieira/Reddit-public-pipelines): End-to-end data pipeline that scrapes photography posts from Reddit, runs computer vision color analysis on each image, and serves results through a Next.js gallery app. (Python + OpenCV + PostgreSQL + Next.js + OpenTelemetry + Docker + GitHub Actions)
 - 🎯 [**MeetingRoom**](https://github.com/iampedrovieira/meetingroom): AI-assisted room booking system (Node.js + Python + PostgreSQL)
+- ✨ [**GlowCaster**](https://github.com/iampedrovieira/GlowCaster): Specialized forecasting app that predicts the quality of sunrises and sunsets. (AI + Node.js + Python + React)
 - 🎮 [**Multiplayer Tic-Tac-Toe**](https://trick-tac-toe.vercel.app/): Real-time game using WebSockets and Docker
 - 🔐 [**Authentication App**](https://github.com/iampedrovieira/auth-app): GitHub OAuth integration, reusable login module, full CI/CD
-- 🎵 [**Spotify Playlist Generator**](https://github.com/iampedrovieira/Spotify-playlist-generator): Scripted tool to automate playlist creation using Spotify’s API
+- 🎵 [**Spotify Playlist Generator**](https://github.com/iampedrovieira/Spotify-playlist-generator): Scripted tool to automate playlist creation using Spotify's API
 
 ---
 
