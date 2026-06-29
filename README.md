@@ -13,7 +13,7 @@ I'm a backend-focused software developer with 4+ years of experience — from en
 
 ### 🛠️ Notable Projects
 
-- 📸 [**Reddit Content Pipeline**](https://github.com/iampedrovieira/Reddit-public-pipelines): End-to-end data pipeline that scrapes photography posts from Reddit, runs computer vision color analysis on each image, and serves results through a Next.js gallery app. (Python + OpenCV + PostgreSQL + Next.js + OpenTelemetry + Docker + GitHub Actions)
+- 📸 [**Gallery**](https://github.com/iampedrovieira/gallery-pipelines): End-to-end data pipeline that scrapes photography posts from Reddit, runs computer vision color analysis on each image, and serves results through a Next.js gallery app. (Python + OpenCV + PostgreSQL + Next.js + OpenTelemetry + Docker + GitHub Actions)
 - 🎯 [**MeetingRoom**](https://github.com/iampedrovieira/meetingroom): AI-assisted room booking system (Node.js + Python + PostgreSQL)
 - ✨ [**GlowCaster**](https://github.com/iampedrovieira/GlowCaster): Specialized forecasting app that predicts the quality of sunrises and sunsets. (AI + Node.js + Python + React)
 - 🎮 [**Multiplayer Tic-Tac-Toe**](https://trick-tac-toe.vercel.app/): Real-time game using WebSockets and Docker
