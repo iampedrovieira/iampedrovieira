@@ -1,6 +1,6 @@
 # Hi, I'm Pedro Vieira 👋
 
-I'm a backend-focused software developer with 4+ years of experience — from enterprise PL/SQL systems at Accenture to modern backend. I enjoy building end-to-end systems: pipelines, APIs, and the tooling around them.
+I'm a backend-focused software developer with 3+ years of experience — from enterprise PL/SQL systems at Accenture to modern backend. I enjoy building end-to-end systems: pipelines, APIs, and the tooling around them.
 
 🔧 **Tech I'm confident with:**  
 <p align="left">
